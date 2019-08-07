@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: url("chipotle-logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.answerStyle{
+    display: inline-block;
+    margin: 0 10px 0 10px;
+    font-size: 30px;
+}
+
+h1{
+    margin-top: 350px;
+}
+
